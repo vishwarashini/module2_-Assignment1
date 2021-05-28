@@ -1,4 +1,3 @@
-# module2_-Assignment1
 #Maintain Efficient Process Utilization on Windows
 Get-Process -Name "totally_not_malicious"
 taskkill /F /PID 2204
